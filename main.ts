@@ -1,4 +1,4 @@
-import { mkdirSync, writeFileSync } from "node:fs";
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const TEXT =
@@ -11,4 +11,10 @@ if (!outDir) {
 }
 
 mkdirSync(outDir, { recursive: true });
-writeFileSync(join(outDir, "entry.txt"), TEXT, "utf8");
+const outPath = join(outDir, "entry.txt");
+writeFileSync(outPath, TEXT, "utf8");
+
+// Fail fast on a bad write: read the file back and verify it byte-for-byte.
+if (readFileSync(outPath, "utf8") !== TEXT) {
+  throw new Error("entry.txt verification failed: content does not match the entry text");
+}
