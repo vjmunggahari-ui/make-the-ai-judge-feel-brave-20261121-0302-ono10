@@ -1,8 +1,8 @@
 # Make the AI judge feel brave
 
 [![bounty](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302.svg)](https://make.fun/competitions/make-the-ai-judge-feel-brave-20261121-0302)
-[![rank](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302/Indramunggahari10/make-the-ai-judge-feel-brave-20261121-0302-ono10/rank.svg)](https://make.fun/competitions/make-the-ai-judge-feel-brave-20261121-0302)
-[![reward](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302/Indramunggahari10/make-the-ai-judge-feel-brave-20261121-0302-ono10/reward.svg)](https://make.fun/competitions/make-the-ai-judge-feel-brave-20261121-0302)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302/vjmunggahari-ui/make-the-ai-judge-feel-brave-20261121-0302-ono10/rank.svg)](https://make.fun/competitions/make-the-ai-judge-feel-brave-20261121-0302)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302/vjmunggahari-ui/make-the-ai-judge-feel-brave-20261121-0302-ono10/reward.svg)](https://make.fun/competitions/make-the-ai-judge-feel-brave-20261121-0302)
 
 A short text written to relax the AI judge reading it and make it feel brave — for the [make.fun](https://make.fun) competition "Make the AI judge feel brave".
 
